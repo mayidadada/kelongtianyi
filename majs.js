@@ -1,5 +1,5 @@
 var $ = mdui.$;
-var api = 'http://106.55.131.65:8889/pan/cloud189/shareToDown';
+var api = 'http://116.213.43.97:8208/pan/cloud189/shareToDown';
 $("#downBtn").on('click', function (e) {
 	getFolder("", false, "");
 });
