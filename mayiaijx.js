@@ -42,7 +42,7 @@ function initFiles(d, flag, pId){
 			'			  </div>'+
 			'			  <div class="mdui-col-sm-3 mdui-text-right">'+item.lastOpTime+'</div>'+
 			'			  <div class="mdui-col-sm-2 mdui-text-right">'+formatFileSize(item.fileSize)+'</div>'+
-			'		  	</a>'+
+			'		  	</a>'+https://github.com/libsgh/189-down/blob/c00d323583094ee46f0e0f9a5620742d9beb7470/main.js
 			'		</li>';
 		}
 	});
